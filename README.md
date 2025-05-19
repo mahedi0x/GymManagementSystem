@@ -1,7 +1,7 @@
 # 🏋️ Gym Management System
-### A Java Swing application with SQL Database integration for managing gym memberships, featuring CRUD operations and secure admin login.
-
-
+### A Java Swing application with SQL Database integration for managing gym memberships, featuring CRUD operations and secure admin login. <br/>
+<br/>
+<br/>
 
 ## 📌 Table of Contents
 ### Features
@@ -18,7 +18,8 @@
 
 ### License
 
-###  Contact
+###  Contact <br/>
+<br/>
 
 
 ## ✨ Features
@@ -30,6 +31,7 @@
 - 🔄 Reset form functionality
 - 🕒 Gym time slot management
 
+<br/>
 
 ## 🏗️ Project Structure
 ![Screenshot 2025-05-19 153108](https://github.com/user-attachments/assets/d85cbc63-5465-4373-904d-f9a747a1ec14)
@@ -46,6 +48,7 @@ Category	Technology/Tool
 | **IDE**        | Apache NetBeans |
 | **Operations** | Full CRUD       |
 
+<br/>
 
 ## 📥 Installation
 ### 1. Prerequisites:
@@ -69,6 +72,8 @@ Import the project in NetBeans.
 Configure the SQL database connection in src/database/DBConnection.java.
 
 Run the Login.java file to start the application.
+<br/>
+<br/>
 
 ## 🖥️ Usage
 
