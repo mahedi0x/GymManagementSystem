@@ -1,7 +1,7 @@
 # 🏋️ Gym Management System
-## A Java Swing application with SQL Database integration for managing gym memberships, featuring CRUD operations and secure admin login.
+### A Java Swing application with SQL Database integration for managing gym memberships, featuring CRUD operations and secure admin login.
 
-Admin Dashboard (Replace with actual screenshot path)
+
 
 ## 📌 Table of Contents
 ### Features
